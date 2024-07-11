@@ -1,0 +1,6 @@
+flask 
+flask-restful 
+pandas 
+openai
+Flask-Session
+newrelic

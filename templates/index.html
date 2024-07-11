@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Relicstaurants Chatbot</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f9; }
+        .chat-container { width: 900px; margin: 50px auto; border: 1px solid #ccc; border-radius: 5px; background-color: #fff; }
+        .chat-header { padding: 10px; background-color: #4CAF50; color: white; text-align: center; border-top-left-radius: 5px; border-top-right-radius: 5px; }
+        .chat-box { border-top: 1px solid #ccc; padding: 10px; height: 700px; overflow-y: scroll; }
+        .input-box { display: flex; padding: 10px; border-top: 1px solid #ccc; }
+        .input-box input { flex: 1; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+        .input-box button { padding: 10px; border: none; background-color: #4CAF50; color: white; border-radius: 5px; margin-left: 5px; }
+        .card { border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin: 10px 0; background-color: #f9f9f9; }
+        .card-title { font-size: 1.2em; font-weight: bold; margin-bottom: 5px; }
+        .card-content { font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            Relicstaurants Chatbot
+        </div>
+        <div class="chat-box" id="chat-box">
+            <div>Bot: Hello! Welcome to Relicstaurants! <br>
+                    How can I assist you today? Are you looking for a specific type of cuisine, a particular restaurant, or some recommendations?</div>
+        </div>
+        <div class="input-box">
+            <input type="text" id="user-input" placeholder="Type your message here" onkeypress="handleKeyPress(event)">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        }
+
+        function sendMessage() {
+            const userInput = document.getElementById('user-input').value;
+            if (userInput.trim() === '') return;
+
+            const chatBox = document.getElementById('chat-box');
+            chatBox.innerHTML += `<div>User: ${userInput}</div>`;
+
+            fetch('/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message: userInput })
+            })
+            .then(response => response.json())
+            .then(data => {
+                const response = data.response;
+                if (response.includes('<div class="card">')) {
+                    chatBox.innerHTML += `<div>Bot:</div>` + response;
+                } else {
+                    chatBox.innerHTML += `<div>Bot: ${response}</div>`;
+                }
+                chatBox.scrollTop = chatBox.scrollHeight;
+                document.getElementById('user-input').value = '';
+            });
+        }
+    </script>
+</body>
+</html>
