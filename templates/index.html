@@ -6,7 +6,7 @@
         body { font-family: Arial, sans-serif; background-color: #f4f4f9; }
         .chat-container { width: 900px; margin: 50px auto; border: 1px solid #ccc; border-radius: 5px; background-color: #fff; }
         .chat-header { padding: 10px; background-color: #4CAF50; color: white; text-align: center; border-top-left-radius: 5px; border-top-right-radius: 5px; }
-        .chat-box { border-top: 1px solid #ccc; padding: 10px; height: 700px; overflow-y: scroll; }
+        .chat-box { border-top: 1px solid #ccc; padding: 10px; height: 700px; overflow-y: scroll; white-space: pre-wrap; word-wrap: break-word;}
         .input-box { display: flex; padding: 10px; border-top: 1px solid #ccc; }
         .input-box input { flex: 1; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
         .input-box button { padding: 10px; border: none; background-color: #4CAF50; color: white; border-radius: 5px; margin-left: 5px; }
@@ -21,8 +21,7 @@
             Relicstaurants Chatbot
         </div>
         <div class="chat-box" id="chat-box">
-            <div>Bot: Hello! Welcome to Relicstaurants! <br>
-                    How can I assist you today? Are you looking for a specific type of cuisine, a particular restaurant, or some recommendations?</div>
+            <div>Bot: Hello! Welcome to Relicstaurants! <br>How can I assist you today? Are you looking for a specific type of cuisine, a particular restaurant, or some recommendations?</div>
         </div>
         <div class="input-box">
             <input type="text" id="user-input" placeholder="Type your message here" onkeypress="handleKeyPress(event)">
@@ -51,12 +50,15 @@
             })
             .then(response => response.json())
             .then(data => {
-                const response = data.response;
-                if (response.includes('<div class="card">')) {
-                    chatBox.innerHTML += `<div>Bot:</div>` + response;
-                } else {
-                    chatBox.innerHTML += `<div>Bot: ${response}</div>`;
-                }
+                let response = data.response;
+                
+                // Remove Markdown double asterisks for bold text
+                response = response.replace(/\*\*/g, '');
+                
+                // Replace newlines with <br> for HTML rendering
+                response = response.replace(/\n/g, '<br>');
+                
+                chatBox.innerHTML += `<div>Bot: ${response}</div>`;
                 chatBox.scrollTop = chatBox.scrollHeight;
                 document.getElementById('user-input').value = '';
             });

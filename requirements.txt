@@ -1,6 +1,6 @@
 flask 
-flask-restful 
-pandas 
+flask-restful
 openai
 Flask-Session
+rapidfuzz
 newrelic

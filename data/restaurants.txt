@@ -1,0 +1,311 @@
+Restaurant: Esther's German Saloon
+Cuisine: german
+Location: 22 Teutonic Ave.
+Opens: 11:30:00, Closes: 22:30:00
+Rating: 3, Price level: 3
+Menu: Bockwurst Würstchen ($6.95), Bratwurst mit Brötchen und Sauerkraut ($7.95), Currywurst mit Brötchen ($7.95), Das Hausmannskost ($15.45), Fleishkas mit Kartoffelsalat ($9.95), Frankfurter Würstchen ($14.95), Französische Zwiebelsuppe mit Käse ($15.45), Frikadelle mit Brötchen ($10.95), Gebackener Camenbert ($12.55), Gemischter Salat ($6.55), Haus Salatteller ($16.45), Jaegerschnitzel ($14.95), Kaesepaetzle ($9.95), Kartoffel Reibekuchen mit Apfelmus ($7.95), Maultaschen mit Käse ($10.95), Sauerbraten ($13.45), Ungarische Gulaschsuppe mit Brötchen ($5.95), Wienerschnitzel ($10.95), Wurstsalad mit Bauernbrot ($9.95)
+Description: German home-cooked meals and fifty-eight different beers on tap. To get more authentic, you'd need to be wearing lederhosen.
+
+Restaurant: Robatayaki Hachi
+Cuisine: japanese
+Location: 8 Hawthorne Ln.
+Opens: 17:30:00, Closes: 23:30:00
+Rating: 5, Price level: 4
+Menu: California roll ($7.95), Chicken teriyaki ($7.95), Edamame ($9.95), Futomaki roll ($8.21), Green tea ice cream ($9.95), Kitsune Udon ($12.54), Miso soup ($7.95), Pork Katsu ($7.95), Salmon teriyaki ($8.95), Sashimi combo ($9.95), Spicy Yellowtail roll ($10.55), Sushi combo ($8.55), Teppa Maki ($9.95), Unagi Don ($10.55), Vegetable tempura ($8.95), Vegetarian sushi plate ($9.95), Wakame salad ($6.95)
+Description: Japanese food the way you like it. Fast, fresh, grilled.
+
+Restaurant: BBQ Tofu Paradise
+Cuisine: vegetarian
+Location: 22A King West
+Opens: 16:30:00, Closes: 20:00:00
+Rating: 1, Price level: 2
+Menu: bean and cheese burrito ($9.95), cheese tortellini in tomato sauce ($8.95), coffee ($3.95), falafel wrap with tabbouleh ($6.95), flourless chocolate cake ($11.95), garden fresh salad ($9.5), happy buddha stir fry ($15.45), hummus appetizer plate ($12.34), lentil burger ($13.1), lentil soup ($5.5), pasta with olives and marinated lemon ($7.95), spinach and cheese wrap ($8.95), tea ($2.95), toasted sandwich with grilled eggplant ($8.95), tofu chicken wrap ($12.95), tomato and cheese sandwich ($11.45), vegetable stew ($5.95)
+Description: Vegetarians, we have your BBQ needs covered. Our home-made tofu skewers and secret BBQ sauce will have you licking your fingers.
+
+Restaurant: Le Bateau Rouge
+Cuisine: french
+Location: 2 South Park Dr.
+Opens: 17:00:00, Closes: 23:30:00
+Rating: 4, Price level: 5
+Menu: bavette dans son jus ($6.95), bœuf bourguignon  ($24), bouillabaisse ($17.5), coq au vin ($14.45), frites aïoli  ($12.45), moules et frites ($5.95), poulet au riesling ($7.95), quiche lorraine ($9.95), salade de chèvre chaud ($8.95), salade du midi ($9.95), salade niçoise ($5.95), sandwich croque-madame ($5.95), sandwich croque-monsieur ($6.55), soupe à l'oignon ($12.95), steak frites ($12.95), tarte pissaladière  ($9.95), tarte tatin ($8.95)
+Description: Fine French dining in a romantic setting. From soupe à l'oignon to coq au vin, let our chef delight you with a local take on authentic favorites.
+
+Restaurant: Khartoum Khartoum
+Cuisine: african
+Location: 1566 Maple Rd.
+Opens: 11:00:00, Closes: 14:00:00
+Rating: 2, Price level: 3
+Menu: Dibi Lamb ($12.25), Doro Wat ($7.95), Grilled Chicken ($8.95), Grilled Fish ($8.95), Grilled Plantains in Spicy Peanut Sauce ($9.95), Lamb Mafe (Peanut Butter Stew) ($11.75), Meat Pie ($7.2), Mechoui with Plantains ($8.95), Pepper Soup ($14.95), Piri-Piri Shrimp ($15.45), Suppa Kandja ($8.95), Thiou Boulette ($9.95), Thiou Curry with Chicken ($10.95), Thu Okra ($9.95), Yassa Chicken ($12.95), Yassa Lamb ($13.25)
+Description: African homestyle cuisine, cooked fresh daily.
+
+Restaurant: Sally's Diner
+Cuisine: american
+Location: 96 College Blvd.
+Opens: 8:30:00, Closes: 20:00:00
+Rating: 3, Price level: 4
+Menu: Buffalo wings ($7.95), California-style baked Tilapia with rice ($9.95), Cheeseburger and fries ($7.55), Cherry pie a la mode ($8.95), Chocolate milkshake ($8.95), Cobb salad ($7.95), Famous BLT on a kaiser roll with fries ($6.95), Firehouse chili ($9.95), Goat cheese and eggplant wrap (vegetarian) ($7.95), Greek salad ($9.95), Grilled chicken sandwich ($6.95), Grilled sausage on a bun ($9.95), Housemade pot roast with seasonal vegetable ($19.95), Roast beef dip ($14.45), Roast chicken and mashed potatoes ($9.55), Soup of the day ($11.95), Spaghetti and meatballs ($13.45)
+Description: Food like mom cooked, if you grew up in Iowa and mom ran a diner. Try our blue plate special!
+
+Restaurant: Saucy Piggy
+Cuisine: barbecue
+Location: 623 Industrial Rd.
+Opens: 15:00:00, Closes: 22:00:00
+Rating: 2, Price level: 3
+Menu: BBQ chicken ($6.95), Beef ribs (full) ($12.95), Beef ribs (delux) ($13.45), Beef ribs (half) ($8.45), Beer ($9.55), Coleslaw ($10.95), Collards ($14.95), Cornbread ($16.45), Devilled eggs ($6.21), German chocolate cake ($7.95), Housemade chips ($7), Hushpuppies ($5.25), Mac and cheese ($8), Pork ribs (half) ($9.95), Potato salad ($5.95), Pulled pork sandwich on a soft roll ($7.95), Riblets ($15.45)
+Description: Pork. We know how to cook it. Award-winning BBQ sauce, and meat with all the trimmings.
+
+Restaurant: Czech Point
+Cuisine: czech/slovak
+Location: 5567 Queen-Mary Rd
+Opens: 10:30:00, Closes: 21:30:00
+Rating: 4, Price level: 1
+Menu: Apple strudel ($9.95), Apricot dumpling with yogurt topping  ($7.95), Balkánský Salad ($7.95), Beef goulash ($9.95), Chicken breast fillet schnitzel  ($14.45), Cucumber Salad ($10.55), Dumplings ($7.95), Fried goose liver with onion and bread ($9.55), Halusky with sauerkraut and belly bacon  ($12.95), Lentil soup ($6.5), Pickles with cabbage and cheddar ($13.45), Pork schnitzel ($5.95), Potato pancake with bacon ($7.95), Potato Salad ($6.55), Segedínský gulash and dumplings ($9.95), Sour cabbage soup ($13.45)
+Description: Make a point of trying our knedlíky and homemade soups. We have free wifi and the best desserts and coffee. 
+
+Restaurant: Der Speisewagen
+Cuisine: german
+Location: 402 College Blvd.
+Opens: 17:00:00, Closes: 22:30:00
+Rating: 5, Price level: 3
+Menu: Bockwurst Würstchen ($7.95), Bratwurst mit Brötchen und Sauerkraut ($7.95), Currywurst mit Brötchen ($8.95), Das Hausmannskost ($13.45), Fleishkas mit Kartoffelsalat ($8.95), Frankfurter Würstchen ($12.95), Französische Zwiebelsuppe mit Käse ($14.45), Frikadelle mit Brötchen ($8.95), Gebackener Camenbert ($9.55), Gemischter Salat ($6.55), Haus Salatteller ($14.45), Jaegerschnitzel ($12.95), Kaesepaetzle ($8.95), Kartoffel Reibekuchen mit Apfelmus ($7.95), Maultaschen mit Käse ($9.95), Sauerbraten ($13.45), Ungarische Gulaschsuppe mit Brötchen ($5.95), Wienerschnitzel ($12.95), Wurstsalad mit Bauernbrot ($8.95)
+Description: Award-winning schnitzel and other favorites. Look for our restored food truck in the NE corner of the College St lot.
+
+Restaurant: Beijing Express
+Cuisine: chinese
+Location: 38 Teutonic Ave.
+Opens: 11:00:00, Closes: 22:30:00
+Rating: 4, Price level: 2
+Menu: Almond cookie ($7.95), Chicken and broccoli ($12.95), Chow mein ($7.95), Egg rolls (4) ($6.95), General Tao's chicken ($7.95), Hot and Sour Soup ($9.55), Hunan dumplings ($8.5), Mongolian beef ($9.95), Pan-fried beef noodle ($9.95), Pea shoots with garlic ($11.95), Potstickers (6) ($8.95), Seafood hotpot ($7.95), Steamed rice ($8.95), Sweet and sour pork ($8.95), Walnut prawns ($6.95), Wonton Soup ($8.25), Young Chow fried rice ($8.45)
+Description: Fast, healthy, Chinese food. Family specials for takeout or delivery. Try our Peking Duck!
+
+Restaurant: Satay Village
+Cuisine: thai
+Location: 12 High St.
+Opens: 17:30:00, Closes: 22:00:00
+Rating: 2, Price level: 4
+Menu: Basil duck with rice ($6.55), Curry salmon ($15.45), Egg rolls (4) ($7.95), Fried banana and ice cream ($12.45), Green curry with chicken ($6.95), Green curry with pork ($6.55), Hot tea ($3.5), Onion pancake ($8.95), Pad See Ew ($6.95), Pad Thai ($8.95), Pumpkin curry ($7.95), Red curry with chicken ($11.95), Red curry with pork ($14.95), Sticky rice with mango ($8.95), Thai iced coffee ($8.95), Thai iced tea ($5.95), Tofu salad rolls ($13.45)
+Description: Fine dining Thai-style. Wide selection of vegetarian entrées. We also deliver.
+
+Restaurant: Cancun
+Cuisine: mexican
+Location: 2030 Maple Rd.
+Opens: 11:30:00, Closes: 23:00:00
+Rating: 3, Price level: 3
+Menu: Beans and rice ($9.95), Beef burrito ($10.95), Birria ($9.95), Chicken burrito ($14.45), Chicken mole platter ($8.95), Chile relleno (meat) ($9.95), Chile relleno (vegetarian) ($5.95), Chips and guacamole ($8.95), Enchiladas ($8.55), Flan ($9.95), Jamaica Aqua Fresca ($5.5), Pork al pastor platter ($8.95), Sopa de albondigas ($9.95), Sopa de pollo ($7.95), Strawberry Aqua Fresca ($5.95), Super nachos with carne asada ($7.95), Tacos de la casa (3) ($6.95), Vegetarian platter ($7.55)
+Description: Tacos, tortas, burritos, just the way you like them. Our hot sauce and guacamole are the best in town.
+
+Restaurant: Curry Up
+Cuisine: indian
+Location: 455 University
+Opens: 17:00:00, Closes: 22:00:00
+Rating: 5, Price level: 4
+Menu: Aloo Gobi ($7.95), Basmati rice ($8.95), Butter Chicken ($7.95), Chicken Korma ($9.55), Chicken Tikka Masala ($8.95), Gulab Jamun ($11.95), Kheer ($6.5), Lamb Asparagus ($14.5), Lamb Vindaloo ($13.95), Mix Grill Bombay ($11.95), Mulligatawny soup ($8.95), Murgh Chicken ($6.95), Naan stuffed with spinach and lamb ($6.55), Plain naan ($6.95), Rogan Josh ($7.95), Saag Paneer ($7.95), Tandoori Chicken ($6.95)
+Description: Indian food with a modern twist. We use all-natural ingredients and the finest spices to delight and tempt your palate.
+
+Restaurant: Carthage
+Cuisine: african
+Location: 59 Court Terrace
+Opens: 17:00:00, Closes: 22:30:00
+Rating: 1, Price level: 2
+Menu: Dibi Lamb ($11.25), Doro Wat ($7.95), Grilled Chicken ($6.95), Grilled Fish ($8.95), Grilled Plantains in Spicy Peanut Sauce ($9.95), Lamb Mafe (Peanut Butter Stew) ($11.75), Meat Pie ($8), Mechoui with Plantains ($7.95), Pepper Soup ($11.95), Piri-Piri Shrimp ($12.45), Suppa Kandja ($6.95), Thiou Boulette ($8.95), Thiou Curry with Chicken ($9.95), Thu Okra ($8.95), Yassa Chicken ($10.95), Yassa Lamb ($10.25)
+Description: Wholesome food and all the rich flavor of Africa. Try our famous lentil soup.
+
+Restaurant: Burgerama
+Cuisine: american
+Location: 456 University
+Opens: 11:00:00, Closes: 23:00:00
+Rating: 4, Price level: 5
+Menu: Buffalo wings ($8.95), California-style baked Tilapia with rice ($8.95), Cheeseburger and fries ($7.55), Cherry pie a la mode ($8.95), Chocolate milkshake ($9.95), Cobb salad ($6.95), Famous BLT on a kaiser roll with fries ($6.95), Firehouse chili ($9.95), Goat cheese and eggplant wrap (vegetarian) ($8.95), Greek salad ($9.95), Grilled chicken sandwich ($7.95), Grilled sausage on a bun ($9.95), Housemade pot roast with seasonal vegetable ($18.95), Roast beef dip ($13.45), Roast chicken and mashed potatoes ($9.55), Soup of the day ($9.95), Spaghetti and meatballs ($15.45)
+Description: Grade A beef, freshly ground every day, hand-cut fries, and home-made milkshakes. We make the best burgers in town. 
+
+Restaurant: Three Little Pigs
+Cuisine: barbecue
+Location: 12 Summer Court
+Opens: 11:30:00, Closes: 22:30:00
+Rating: 2, Price level: 3
+Menu: BBQ chicken ($7.95), Beef ribs (full) ($12.95), Beef ribs (delux) ($14.45), Beef ribs (half) ($8.45), Beer ($9.55), Coleslaw ($11.95), Collards ($13.95), Cornbread ($17.45), Devilled eggs ($7), German chocolate cake ($7.95), Housemade chips ($7), Hushpuppies ($6.25), Mac and cheese ($7), Pork ribs (half) ($9.95), Potato salad ($6.95), Pulled pork sandwich on a soft roll ($7.95), Riblets ($15.45)
+Description: Genuine East Texas barbecue. Accept no substitutes! 
+
+Restaurant: Little Prague
+Cuisine: czech/slovak
+Location: 44 Park Ave
+Opens: 11:00:00, Closes: 22:00:00
+Rating: 3, Price level: 4
+Menu: Apple strudel ($8.95), Apricot dumpling with yogurt topping  ($5.95), Balkánský Salad ($5.95), Beef goulash ($10.95), Chicken breast fillet schnitzel  ($14.45), Cucumber Salad ($9.55), Dumplings ($7.95), Fried goose liver with onion and bread ($9.55), Halusky with sauerkraut and belly bacon  ($10.95), Lentil soup ($14.5), Pickles with cabbage and cheddar ($18.45), Pork schnitzel ($9.95), Potato pancake with bacon ($8.95), Potato Salad ($6.55), Segedínský gulash and dumplings ($9.95), Sour cabbage soup ($14.45)
+Description: We're famous for our housemade sausage and desserts. Come taste real European cooking.
+
+Restaurant: Kohl Haus
+Cuisine: german
+Location: 3421 Queen-Mary Rd
+Opens: 17:00:00, Closes: 22:30:00
+Rating: 2, Price level: 3
+Menu: Bockwurst Würstchen ($6.95), Bratwurst mit Brötchen und Sauerkraut ($9.95), Currywurst mit Brötchen ($7.95), Das Hausmannskost ($14.45), Fleishkas mit Kartoffelsalat ($8.95), Frankfurter Würstchen ($14.95), Französische Zwiebelsuppe mit Käse ($14.45), Frikadelle mit Brötchen ($8.95), Gebackener Camenbert ($9.55), Gemischter Salat ($6.55), Haus Salatteller ($14.45), Jaegerschnitzel ($14.95), Kaesepaetzle ($8.95), Kartoffel Reibekuchen mit Apfelmus ($7.95), Maultaschen mit Käse ($9.95), Sauerbraten ($13.45), Ungarische Gulaschsuppe mit Brötchen ($5.95), Wienerschnitzel ($11.95), Wurstsalad mit Bauernbrot ($8.95)
+Description: East German specialties, in a family-friendly setting. Come warm up with our delicious soups.
+
+Restaurant: Dragon's Tail
+Cuisine: chinese
+Location: 8 Jasmine Rd.
+Opens: 17:00:00, Closes: 2:00:00
+Rating: 4, Price level: 1
+Menu: Almond cookie ($7.95), Chicken and broccoli ($12.95), Chow mein ($7.95), Egg rolls (4) ($5.95), General Tao's chicken ($7.95), Hot and Sour Soup ($9.55), Hunan dumplings ($8.5), Mongolian beef ($9.95), Pan-fried beef noodle ($10.95), Pea shoots with garlic ($11.95), Potstickers (6) ($9.95), Seafood hotpot ($6.95), Steamed rice ($7.95), Sweet and sour pork ($9.95), Walnut prawns ($6.95), Wonton Soup ($8.25), Young Chow fried rice ($9.45)
+Description: Take-out or dine-in Chinese food. Open late. Delivery available
+
+Restaurant: Hit Me Baby One More Thai
+Cuisine: thai
+Location: 12 Jasmine Rd.
+Opens: 15:00:00, Closes: 22:00:00
+Rating: 5, Price level: 3
+Menu: Basil duck with rice ($6.55), Curry salmon ($15.45), Egg rolls (4) ($7.95), Fried banana and ice cream ($14.45), Green curry with chicken ($6.95), Green curry with pork ($8.55), Hot tea ($3.5), Onion pancake ($8.95), Pad See Ew ($6.95), Pad Thai ($9.95), Pumpkin curry ($8.95), Red curry with chicken ($11.95), Red curry with pork ($14.95), Sticky rice with mango ($8.95), Thai iced coffee ($8.95), Thai iced tea ($5.95), Tofu salad rolls ($13.45)
+Description: Thai food with a youthful bar scene. Try our tropical inspired cocktails, or tuck into a plate of our famous pad thai.
+
+Restaurant: The Whole Tamale
+Cuisine: mexican
+Location: 401 University
+Opens: 10:30:00, Closes: 21:30:00
+Rating: 4, Price level: 2
+Menu: Beans and rice ($9.95), Beef burrito ($10.95), Birria ($11.95), Chicken burrito ($13.45), Chicken mole platter ($7.95), Chile relleno (meat) ($9.95), Chile relleno (vegetarian) ($5.95), Chips and guacamole ($7.95), Enchiladas ($6.55), Flan ($9.95), Jamaica Aqua Fresca ($4.5), Pork al pastor platter ($7.95), Sopa de albondigas ($10.95), Sopa de pollo ($8.95), Strawberry Aqua Fresca ($5.95), Super nachos with carne asada ($7.95), Tacos de la casa (3) ($6.95), Vegetarian platter ($8.55)
+Description: The tamale and hot sauce experts. Tamale special changes daily.
+
+Restaurant: Birmingham Bhangra
+Cuisine: indian
+Location: 992 Riddick St.
+Opens: 17:00:00, Closes: 22:30:00
+Rating: 2, Price level: 4
+Menu: Aloo Gobi ($7.95), Basmati rice ($7.95), Butter Chicken ($7.95), Chicken Korma ($9.55), Chicken Tikka Masala ($7.95), Gulab Jamun ($10.95), Kheer ($6.5), Lamb Asparagus ($12.5), Lamb Vindaloo ($9.95), Mix Grill Bombay ($8.95), Mulligatawny soup ($7.95), Murgh Chicken ($5.95), Naan stuffed with spinach and lamb ($7.55), Plain naan ($7.95), Rogan Josh ($8.95), Saag Paneer ($8.95), Tandoori Chicken ($6.95)
+Description: Curry with a metropolitan twist. Daily specials. Dine-in or takeaway, you choose.
+
+Restaurant: Taqueria
+Cuisine: mexican
+Location: 12 North Circle Dr.
+Opens: 11:00:00, Closes: 22:30:00
+Rating: 3, Price level: 3
+Menu: Beans and rice ($8.95), Beef burrito ($9.95), Birria ($10.95), Chicken burrito ($14.45), Chicken mole platter ($7.95), Chile relleno (meat) ($8.95), Chile relleno (vegetarian) ($5.95), Chips and guacamole ($8.95), Enchiladas ($7.55), Flan ($9.95), Jamaica Aqua Fresca ($4.5), Pork al pastor platter ($7.95), Sopa de albondigas ($9.95), Sopa de pollo ($8.95), Strawberry Aqua Fresca ($5.95), Super nachos with carne asada ($7.95), Tacos de la casa (3) ($6.95), Vegetarian platter ($6.55)
+Description: Taqueria y panaderia. Birria served on weekends.
+
+Restaurant: Pedro's
+Cuisine: mexican
+Location: 5521 Alameda
+Opens: 17:30:00, Closes: 22:00:00
+Rating: 5, Price level: 4
+Menu: Beans and rice ($9.95), Beef burrito ($10.95), Birria ($11.95), Chicken burrito ($15.45), Chicken mole platter ($8.95), Chile relleno (meat) ($9.95), Chile relleno (vegetarian) ($5.95), Chips and guacamole ($7.95), Enchiladas ($6.55), Flan ($9.95), Jamaica Aqua Fresca ($4.5), Pork al pastor platter ($8.95), Sopa de albondigas ($10.95), Sopa de pollo ($8.95), Strawberry Aqua Fresca ($6.95), Super nachos with carne asada ($8.95), Tacos de la casa (3) ($6.95), Vegetarian platter ($7.55)
+Description: Pedro's has been an Alameda staple for thirty years. Our list of fine tequilas and slow-cooked carnitas will make you a regular.
+
+Restaurant: Super Wonton Express
+Cuisine: chinese
+Location: 223 Milliways Ave
+Opens: 11:30:00, Closes: 23:00:00
+Rating: 1, Price level: 2
+Menu: Almond cookie ($6.95), Chicken and broccoli ($14.95), Chow mein ($7.95), Egg rolls (4) ($5.95), General Tao's chicken ($8.95), Hot and Sour Soup ($10.55), Hunan dumplings ($11.5), Mongolian beef ($13.95), Pan-fried beef noodle ($10.95), Pea shoots with garlic ($11.95), Potstickers (6) ($9.95), Seafood hotpot ($7.95), Steamed rice ($8.95), Sweet and sour pork ($9.95), Walnut prawns ($6.95), Wonton Soup ($9.25), Young Chow fried rice ($9.45)
+Description: Soups, stir-fries, and more. We cook fast.
+
+Restaurant: Naan Sequitur
+Cuisine: indian
+Location: Unit 12, Olde Towne Mall
+Opens: 17:00:00, Closes: 22:00:00
+Rating: 4, Price level: 5
+Menu: Aloo Gobi ($9.95), Basmati rice ($9.95), Butter Chicken ($11.95), Chicken Korma ($12.55), Chicken Tikka Masala ($11.95), Gulab Jamun ($10.95), Kheer ($9.5), Lamb Asparagus ($14.5), Lamb Vindaloo ($15.95), Mix Grill Bombay ($14.95), Mulligatawny soup ($9.95), Murgh Chicken ($7.95), Naan stuffed with spinach and lamb ($7.55), Plain naan ($8.95), Rogan Josh ($7.95), Saag Paneer ($8.95), Tandoori Chicken ($6.95)
+Description: Naan and tandoori specialties, from our clay oven. 
+
+Restaurant: Sakura
+Cuisine: japanese
+Location: Unit 18, Olde Towne Mall
+Opens: 17:00:00, Closes: 22:30:00
+Rating: 2, Price level: 3
+Menu: California roll ($8.95), Chicken teriyaki ($9.95), Edamame ($9.95), Futomaki roll ($7.33), Green tea ice cream ($9.95), Kitsune Udon ($12.5), Miso soup ($8.95), Pork Katsu ($7.95), Salmon teriyaki ($8.95), Sashimi combo ($9.95), Spicy Yellowtail roll ($9.55), Sushi combo ($7.55), Teppa Maki ($8.95), Unagi Don ($9.55), Vegetable tempura ($5.95), Vegetarian sushi plate ($8.95), Wakame salad ($8.95)
+Description: Sushi specials daily. We serve fast, friendly, fresh Japanese cuisine.
+
+Restaurant: Shandong Lu
+Cuisine: chinese
+Location: 335 University
+Opens: 17:00:00, Closes: 22:30:00
+Rating: 3, Price level: 4
+Menu: Almond cookie ($7.95), Chicken and broccoli ($12.95), Chow mein ($6.95), Egg rolls (4) ($5.95), General Tao's chicken ($8.95), Hot and Sour Soup ($9.55), Hunan dumplings ($9.5), Mongolian beef ($8.95), Pan-fried beef noodle ($9.95), Pea shoots with garlic ($12.95), Potstickers (6) ($8.95), Seafood hotpot ($5.95), Steamed rice ($8.95), Sweet and sour pork ($9.95), Walnut prawns ($6.95), Wonton Soup ($8.25), Young Chow fried rice ($9.45)
+Description: Szechuan and Mandarin specialities with a fine dining ambiance. Our hot and sour soup is the best in town.
+
+Restaurant: Curry Galore
+Cuisine: indian
+Location: 56 Park Ave
+Opens: 11:00:00, Closes: 22:30:00
+Rating: 2, Price level: 3
+Menu: Aloo Gobi ($7.95), Basmati rice ($9.95), Butter Chicken ($7.95), Chicken Korma ($9.55), Chicken Tikka Masala ($7.95), Gulab Jamun ($11.95), Kheer ($7.5), Lamb Asparagus ($12.5), Lamb Vindaloo ($9.95), Mix Grill Bombay ($7.95), Mulligatawny soup ($8.95), Murgh Chicken ($5.95), Naan stuffed with spinach and lamb ($6.55), Plain naan ($9.95), Rogan Josh ($7.95), Saag Paneer ($7.95), Tandoori Chicken ($8.95)
+Description: Famous North Indian home cooking. Spicy or mild, as you like it. Delivery available.
+
+Restaurant: North by Northwest
+Cuisine: cafe
+Location: 201 University
+Opens: 6:00:00, Closes: 18:00:00
+Rating: 4, Price level: 1
+Menu: Apple pie ($7.95), B.L.T. and Avocado Sandwich ($8.95), Caesar salad ($8.95), Cappucino ($5.95), Cherry cheesecake ($6.95), Chocolate chip cookie ($6.55), Cobb salad ($9.95), Drip coffee ($6.95), Eggsalad Sandwich ($5.95), Espresso ($6.95), Greek salad ($7.95), Hot tea ($3.5), Iced tea ($3.5), Latte ($5), Mango and banana smoothie ($6), Orange juice ($5.95), Quiche of the day ($8.95), Turkey Sandwich ($10.55)
+Description: Great coffee and snacks. Free wifi. 
+
+Restaurant: Full of Beans
+Cuisine: cafe
+Location: 498 College Ave.
+Opens: 6:30:00, Closes: 20:30:00
+Rating: 5, Price level: 3
+Menu: Apple pie ($7.95), B.L.T. and Avocado Sandwich ($7.95), Caesar salad ($7.95), Cappucino ($5.95), Cherry cheesecake ($6.95), Chocolate chip cookie ($6.55), Cobb salad ($8.95), Drip coffee ($7.95), Eggsalad Sandwich ($5.95), Espresso ($7.95), Greek salad ($5.95), Hot tea ($3.5), Iced tea ($3.5), Latte ($6), Mango and banana smoothie ($6), Orange juice ($5.95), Quiche of the day ($8.95), Turkey Sandwich ($10.55)
+Description: We roast on premises to give you the best cup of coffee in town. 
+
+Restaurant: Tropical Jeeve's Cafe
+Cuisine: cafe
+Location: 550 Milliways Ave
+Opens: 7:00:00, Closes: 14:30:00
+Rating: 4, Price level: 2
+Menu: Apple pie ($7.95), B.L.T. and Avocado Sandwich ($7.95), Caesar salad ($7.95), Cappucino ($5.95), Cherry cheesecake ($7.95), Chocolate chip cookie ($6.55), Cobb salad ($8.95), Drip coffee ($6.95), Eggsalad Sandwich ($5.95), Espresso ($7.95), Greek salad ($5.95), Hot tea ($4.5), Iced tea ($4.5), Latte ($6), Mango and banana smoothie ($5), Orange juice ($6.95), Quiche of the day ($8.95), Turkey Sandwich ($9.55)
+Description: Hawaiian style coffee, fresh juices, and tropical fruit smoothies.
+
+Restaurant: Zardoz Cafe
+Cuisine: cafe
+Location: 6202 Alameda
+Opens: 10:30:00, Closes: 0:00:00
+Rating: 2, Price level: 4
+Menu: Apple pie ($7.95), B.L.T. and Avocado Sandwich ($6.95), Caesar salad ($7.95), Cappucino ($6.95), Cherry cheesecake ($7.95), Chocolate chip cookie ($7.55), Cobb salad ($8.95), Drip coffee ($6.95), Eggsalad Sandwich ($5.95), Espresso ($6.95), Greek salad ($6.95), Hot tea ($3.5), Iced tea ($3.5), Latte ($5), Mango and banana smoothie ($7), Orange juice ($5.95), Quiche of the day ($8.95), Turkey Sandwich ($7.55)
+Description: Coffee bar and sci-fi bookshop. Come in for an espresso or a slice of our famous pie.
+
+Restaurant: Angular Pizza
+Cuisine: pizza
+Location: 2232 King St.
+Opens: 6:00:00, Closes: 0:00:00
+Rating: 5, Price level: 1
+Menu: Cesar salad ($6.95), Cheesecake ($7.95), Chicago-style deep dish chicken and spinach ($7.95), Chicago-style deep dish pepperoni and cheese ($8.95), Chicago-style deep dish vegetarian ($8.95), Chicago-style meat lover's ($8.95), Chocolate cake ($5.95), Coffee ($7.95), Garlic bread ($5.2), Greek salad ($8.95), Pizza of the day (slice) ($8.55), Thin crust anchovy and garlic and chili pepper ($7.95), Thin crust broccoli, chicken, and mozarella ($6.95), Thin crust margherita ($6.55), Thin crust pepperoni ($8.95), Thin crust quattro stagione ($5.95), Thin crust sausage and guanciale bacon ($6.95)
+Description: Home of the superheroic pizza! 
+
+Restaurant: Flavia
+Cuisine: pizza
+Location: 401 Riddick St.
+Opens: 11:30:00, Closes: 22:00:00
+Rating: 5, Price level: 4
+Menu: Cesar salad ($6.95), Cheesecake ($7.95), Chicago-style deep dish chicken and spinach ($8.95), Chicago-style deep dish pepperoni and cheese ($8.95), Chicago-style deep dish vegetarian ($7.95), Chicago-style meat lover's ($11.95), Chocolate cake ($5.95), Coffee ($9.95), Garlic bread ($11.21), Greek salad ($7.95), Pizza of the day (slice) ($9.55), Thin crust anchovy and garlic and chili pepper ($7.95), Thin crust broccoli, chicken, and mozarella ($6.95), Thin crust margherita ($7.55), Thin crust pepperoni ($8.95), Thin crust quattro stagione ($6.95), Thin crust sausage and guanciale bacon ($8.95)
+Description: Roman-style pizza -- square, the way the gods intended.
+
+Restaurant: Luigi's House of Pies
+Cuisine: pizza
+Location: 5 Garcia Ave.
+Opens: 16:30:00, Closes: 23:00:00
+Rating: 1, Price level: 2
+Menu: Cesar salad ($7.95), Cheesecake ($8.95), Chicago-style deep dish chicken and spinach ($9.95), Chicago-style deep dish pepperoni and cheese ($8.95), Chicago-style deep dish vegetarian ($9.95), Chicago-style meat lover's ($12.95), Chocolate cake ($6.95), Coffee ($10.95), Garlic bread ($6.3), Greek salad ($7.95), Pizza of the day (slice) ($9.55), Thin crust anchovy and garlic and chili pepper ($7.95), Thin crust broccoli, chicken, and mozarella ($5.95), Thin crust margherita ($6.55), Thin crust pepperoni ($8.95), Thin crust quattro stagione ($6.95), Thin crust sausage and guanciale bacon ($6.95)
+Description: Our secret pizza sauce makes our pizza better. We specialize in large groups.
+
+Restaurant: Thick and Thin
+Cuisine: pizza
+Location: 832 Dominican Ave.
+Opens: 17:00:00, Closes: 23:30:00
+Rating: 4, Price level: 5
+Menu: Cesar salad ($7.95), Cheesecake ($9.95), Chicago-style deep dish chicken and spinach ($9.95), Chicago-style deep dish pepperoni and cheese ($10.95), Chicago-style deep dish vegetarian ($8.95), Chicago-style meat lover's ($11.95), Chocolate cake ($6.95), Coffee ($9.95), Garlic bread ($5.2), Greek salad ($8.95), Pizza of the day (slice) ($8.55), Thin crust anchovy and garlic and chili pepper ($7.95), Thin crust broccoli, chicken, and mozarella ($5.95), Thin crust margherita ($7.55), Thin crust pepperoni ($8.95), Thin crust quattro stagione ($6.95), Thin crust sausage and guanciale bacon ($6.95)
+Description: Whether you're craving Chicago-style deep dish or thin as a wafer crust, we have you covered in toppings you'll love.
+
+Restaurant: When in Rome
+Cuisine: pizza
+Location: 234 Valencia St.
+Opens: 11:00:00, Closes: 21:30:00
+Rating: 2, Price level: 3
+Menu: Cesar salad ($7.95), Cheesecake ($8.95), Chicago-style deep dish chicken and spinach ($8.95), Chicago-style deep dish pepperoni and cheese ($9.95), Chicago-style deep dish vegetarian ($8.95), Chicago-style meat lover's ($10.95), Chocolate cake ($5.95), Coffee ($9.95), Garlic bread ($5.2), Greek salad ($7.95), Pizza of the day (slice) ($9.55), Thin crust anchovy and garlic and chili pepper ($7.95), Thin crust broccoli, chicken, and mozarella ($5.95), Thin crust margherita ($7.55), Thin crust pepperoni ($9.95), Thin crust quattro stagione ($6.95), Thin crust sausage and guanciale bacon ($7.95)
+Description: Authentic Italian pizza in a friendly neighborhood joint.
+
+Restaurant: Pizza 76
+Cuisine: pizza
+Location: 76 Market St.
+Opens: 10:30:00, Closes: 22:00:00
+Rating: 3, Price level: 4
+Menu: Cesar salad ($7.95), Cheesecake ($8.95), Chicago-style deep dish chicken and spinach ($9.95), Chicago-style deep dish pepperoni and cheese ($10.95), Chicago-style deep dish vegetarian ($9.95), Chicago-style meat lover's ($11.95), Chocolate cake ($5.95), Coffee ($9.95), Garlic bread ($4.2), Greek salad ($8.95), Pizza of the day (slice) ($9.55), Thin crust anchovy and garlic and chili pepper ($8.95), Thin crust broccoli, chicken, and mozarella ($6.95), Thin crust margherita ($7.55), Thin crust pepperoni ($9.95), Thin crust quattro stagione ($8.95), Thin crust sausage and guanciale bacon ($6.95)
+Description: Wood-fired pizza with daily ingredients fresh from our farmer's market. We make our own mozzarella in house.
