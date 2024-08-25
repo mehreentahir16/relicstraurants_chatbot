@@ -12,14 +12,13 @@ def search_restaurants_by_cuisine(cuisine, flattened_data):
         return "No restaurants found for this cuisine." 
     return "\n\n".join(results)
 
-def search_top_restaurants(flattened_data, limit=3):
+def search_top_restaurants(flattened_data, limit=5):
     results = []
     entries = flattened_data.split("\n\n")
-    for entry in entries:
-        restaurant_info = format_restaurant_info(entry)
+    for i in range(min(limit, len(entries))):
+        restaurant_info = format_restaurant_info(entries[i])
         results.append(restaurant_info)
-    sorted_results = sorted(results, key=lambda x: float(x.split("Rating: ")[1].split(",")[0]), reverse=True)
-    return "\n\n".join(sorted_results[:limit])
+    return "\n\n".join(results)
 
 def find_restaurant_by_name(query_name, flattened_data):
     entries = flattened_data.split("\n\n")

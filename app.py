@@ -28,8 +28,8 @@ with open(file, "r") as f:
     flattened_data = f.read().strip()
 
 tools = [
-    Tool(name="search_restaurants_by_cuisine", func=lambda cuisine: search_restaurants_by_cuisine(cuisine, flattened_data), description="Use this tool when the user wants to find restaurants based on a specific cuisine."),
-    Tool(name="search_top_restaurants", func=lambda: search_top_restaurants(flattened_data), description="Use this tool to find the top-rated restaurants without filtering by cuisine."),
+    Tool(name="search_restaurants_by_cuisine", func=lambda cuisine: search_restaurants_by_cuisine(cuisine, flattened_data), description="Use this tool when the user wants to find restaurants based on a specific cuisine, like Mexican, Italian, African, etc."),
+    Tool(name="search_top_restaurants", func=lambda: search_top_restaurants(flattened_data), description="Use this tool when user wants to find restaurants without specifying a particular cuisine."),
     Tool(name="get_restaurant_info", func=lambda name: get_restaurant_info(name, flattened_data), description="Use this tool when the user asks for information about a specific restaurant."),
     Tool(name="get_menu", func=lambda name: get_menu(name, flattened_data), description="Use this tool when the user asks for the menu of a specific restaurant.")
 ]
