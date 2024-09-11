@@ -12,7 +12,7 @@ def search_restaurants_by_cuisine(cuisine, flattened_data):
         return "No restaurants found for this cuisine." 
     return "\n\n".join(results)
 
-def search_top_restaurants(flattened_data, limit=5):
+def search_top_restaurants(flattened_data, limit=5, _=None):
     results = []
     entries = flattened_data.split("\n\n")
     for i in range(min(limit, len(entries))):

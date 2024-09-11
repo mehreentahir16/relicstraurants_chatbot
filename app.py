@@ -6,6 +6,7 @@ from langchain.tools import Tool
 from langchain_openai import ChatOpenAI
 from langchain.agents import initialize_agent
 
+import newrelic.agent
 from context import ChatContext
 from services.restaurant_service import search_restaurants_by_cuisine, search_top_restaurants, find_restaurant_by_name, get_restaurant_info
 from services.menu_service import get_menu
@@ -17,6 +18,8 @@ app.config['SECRET_KEY'] = 'supersecretkey123'
 app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
 
+newrelic.agent.initialize('newrelic.ini')
+
 api_key = os.getenv('OPENAI_API_KEY')
 client = openai.OpenAI(api_key=api_key)
 
@@ -26,7 +29,7 @@ with open(file, "r") as f:
 
 tools = [
     Tool(name="search_restaurants_by_cuisine", func=lambda cuisine: search_restaurants_by_cuisine(cuisine, flattened_data), description="Use this tool when the user wants to find restaurants based on a specific cuisine, like Mexican, Italian, African, etc."),
-    Tool(name="search_top_restaurants", func=lambda: search_top_restaurants(flattened_data), description="Use this tool when user wants to find restaurants without specifying a particular cuisine."),
+    Tool(name="search_top_restaurants", func=lambda _: search_top_restaurants(flattened_data), description="Use this tool when user wants to find restaurants without specifying a particular cuisine."),
     Tool(name="get_restaurant_info", func=lambda name: get_restaurant_info(name, flattened_data), description="Use this tool when the user asks for information about a specific restaurant."),
     Tool(name="get_menu", func=lambda name: get_menu(name, flattened_data), description="Use this tool when the user asks for the menu of a specific restaurant.")
 ]
@@ -55,6 +58,7 @@ def get_openai_response(prompt, history):
         )
         return response.choices[0].message.content
     except openai.error.OpenAIError as e:
+        newrelic.agent.record_exception(e)
         return "Something went wrong while generating a response. Please try again."
 
 @app.route('/')
@@ -109,6 +113,7 @@ def chat():
             response = get_openai_response(user_message, history)
 
     except Exception as e:
+        newrelic.agent.record_exception(e)
         response = "There was an error while generating a response. Please try again."
 
     # Update conversation history
