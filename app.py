@@ -1,3 +1,6 @@
+import newrelic.agent
+newrelic.agent.initialize('newrelic.ini')
+
 import os
 import openai
 from flask_session import Session
@@ -6,7 +9,6 @@ from langchain.tools import Tool
 from langchain_openai import ChatOpenAI
 from langchain.agents import initialize_agent
 
-import newrelic.agent
 from context import ChatContext
 from services.restaurant_service import search_restaurants_by_cuisine, search_top_restaurants, find_restaurant_by_name, get_restaurant_info
 from services.menu_service import get_menu
@@ -17,8 +19,6 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = 'supersecretkey123'
 app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
-
-newrelic.agent.initialize('newrelic.ini')
 
 api_key = os.getenv('OPENAI_API_KEY')
 client = openai.OpenAI(api_key=api_key)
